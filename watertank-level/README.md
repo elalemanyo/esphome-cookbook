@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="water-tank-level.svg" width="300px">
+    <img src="watertank-level.svg" width="600px">
     <h1>Water Tank Level Sensor</h1>
 </div>
 <br>
