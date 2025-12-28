@@ -1,3 +1,3 @@
 # ESPHome Cookbook
 
-## [Water Tank Level Sensor](./watertank-level)
+### [Water Tank Level Sensor](./watertank-level)
