@@ -27,7 +27,7 @@ wifi:
 
   ap:
     ssid: "Watertank Level Hotspot"
-    password: "12345678"
+    password: !secret ap_password
 
 captive_portal:
 
